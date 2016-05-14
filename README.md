@@ -20,6 +20,9 @@ REQUIREMENTS:
 - .NET Framework 4 (http://www.microsoft.com/NET)
   (available through Windows Update / Microsoft Update)
 
+DOWNLOAD:
+=============
+https://sourceforge.net/projects/u3d2pdf/files
 
 CHANGES:
 ========
