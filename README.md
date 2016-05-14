@@ -10,6 +10,7 @@ U3D-2-PDF is able to automate the conversion of .STL- & .VRML-files (.WRL) files
 LINKS:
 ======
 http://www.goermezer.de/content/view/486/616/ (3D-PDF kostenlos mit Open Source)
+http://rodomontano.altervista.org/GuidePDF3D.php (Rodomontano)
 
 REQUIREMENTS:
 =============
