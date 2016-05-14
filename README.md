@@ -11,6 +11,9 @@ LINKS:
 ======
 http://www.goermezer.de/content/view/486/616/ (3D-PDF kostenlos mit Open Source)
 http://rodomontano.altervista.org/GuidePDF3D.php (Rodomontano)
+http://www.gettyicons.com/free-icon/124/web-dev-icon-set (GettyIcons)
+http://saviourmachine.deviantart.com (SaviourMachine – Chris Scholten)
+http://get.adobe.com/reader (Adobe Acrobat Reader)
 
 REQUIREMENTS:
 =============
